@@ -277,3 +277,5 @@ fusermount -u mnt
 
 <img width="667" height="450" alt="image" src="https://github.com/user-attachments/assets/a991be34-0405-4f38-afaf-062b26cf93d3" />
 
+### Bug dan kesulitan saat mengerjakan
+Selama pengerjaan ditemukan beberapa bug yaitu typo `f(!f)` seharusnya `if(!f)`, `strcmp` seharusnya `strncmp`, nama variabel `fragment` hilang di kondisi while, `char* full_path` seharusnya `char full_path`, nama fungsi typo double `n` menyebabkan undefined reference, nama file virtual tidak konsisten antara `/Tujuan.txt` dan `/tujuan.txt`, serta path `source_dir` harus absolut menggunakan `$(pwd)`.
