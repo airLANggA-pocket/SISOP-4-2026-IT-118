@@ -273,3 +273,7 @@ fusermount -u mnt
 ```
 
 ### Input dan Output
+<img width="945" height="37" alt="image" src="https://github.com/user-attachments/assets/302ca950-a707-4686-bd00-5a0f05814381" />
+
+<img width="667" height="450" alt="image" src="https://github.com/user-attachments/assets/a991be34-0405-4f38-afaf-062b26cf93d3" />
+
